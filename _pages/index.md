@@ -1,27 +1,26 @@
 ---
 layout: page
-title: CIS 5650 GPU Programming and Architecture <br> Fall 2024
+title: CIS 5650 GPU Programming and Architecture <br> Fall 2025
 description: >
-  Website for CIS 5650 GPU Programming and Architecture Fall 2024 at the University of Pennsylvania
+  Website for CIS 5650 GPU Programming and Architecture Fall 2025 at the University of Pennsylvania
 hide_description: true
 permalink: /
 ---
 
-[![team-3.gif](/assets/images/previous_projects/team-3.gif){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
-[![team-4.gif](/assets/images/previous_projects/team-4.gif){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
-[![team-5.gif](/assets/images/previous_projects/team-5.gif){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
-[![team-8.gif](/assets/images/previous_projects/team-8.jpg){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
-[![team-9.gif](/assets/images/previous_projects/team-9.gif){:class="img-projects"}](https://cis565-fall-2022.github.io/projects/)
+[![team-1.gif](/assets/images/previous_projects/team-1.gif){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
+[![team-8.gif](/assets/images/previous_projects/team-8.gif){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
+[![team-9.jpg](/assets/images/previous_projects/team-9.jpg){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
+[![team-10.jpg](/assets/images/previous_projects/team-10.jpg){:class="img-projects"}](https://cis5650-fall-2024.github.io/projects/)
 
 ## Course Announcements
 
-### 2023-05-11: Course Waitlist
+### 2025-05-19: Course Waitlist
 
-Advance registration for CIS 5650 Fall 2024 is full. Please use the Course Waitlist to ensure that you are considered for the course and receive course communication ahead of the Fall semester. Additionally, complete the Student Survey linked below.
+Advance registration for CIS 5650 Fall 2025 is full. Please use the Course Waitlist to ensure that you are considered for the course and receive course communication ahead of the Fall semester. Additionally, complete the Student Survey linked below.
 
-### 2023-05-11: Student Survey (Required)
+### 2025-05-19: Student Survey (Required)
 
-All students who are interested in taking the course (registered, waitlisted, or otherwise) must **complete the [Student Survey](https://forms.office.com/r/n1uTDL8ePJ)** as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 5650.
+All students who are interested in taking the course (registered, waitlisted, or otherwise) must **complete the [Student Survey](https://forms.cloud.microsoft/r/m4Z8DqTKfL)** as soon as possible. Failure to submit the survey before first day of class can jeopardize your registration for CIS 5650.
 
 ## Course Description
 
@@ -29,11 +28,9 @@ A timeline section from the following topics:
 
 * **GPU Computing**: GPU architecture, massively parallel programming, parallel algorithms, performance.
 * **Rendering**: Graphics pipeline (rasterization), path tracing, deferred shading, forward+ rendering, VR.
-* **APIs**: CUDA, WebGL, RTX, Vulkan.
+* **APIs**: CUDA, WebGPU, Vulkan.
 
 This is a project-intensive course with significant coding, writing, and presenting. It is **more work** than any other course, but it is worth it.
-
-For a course more focused on GPU architecture without graphics, see Joe Devietti's [CIS 601](https://www.cis.upenn.edu/~devietti/classes/cis601-spring2017/){:target="_blank"} (no longer offered at Penn).
 
 ## Prerequisites
 
@@ -55,11 +52,11 @@ For a course more focused on GPU architecture without graphics, see Joe Devietti
 
 ### Student Survey (Required)
 
-**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2024 Student Survey](https://forms.office.com/r/n1uTDL8ePJ).**
+**If you have registered as a student for the course, or plan to, please complete this required survey: [CIS 5650 Fall 2025 Student Survey](https://forms.cloud.microsoft/r/m4Z8DqTKfL).**
 
 ## Github, Schedule, Class Forum, and LinkedIn
 
-* [**Github**](https://github.com/CIS5650-Fall-2024){:target="_blank"}: fork your repos from here
+* [**Github**](https://github.com/CIS5650-Fall-2025){:target="_blank"}: fork your repos from here
 * [**LinkedIn Group**](https://www.linkedin.com/groups/6540935/){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturers
@@ -74,40 +71,6 @@ Office Hours:
 * By appointment (email me)
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
-
-## Teaching Assistants
-
-### [Han "Andrew" Yang](https://www.linkedin.com/in/andrew-han-yang-0031231a3){:target="_blank"} hanyoung@seas.upenn.edu
-
-Office Hours:
-
-* Monday - 2:00pm - 3:30pm
-* Friday 2:00pm - 3:00pm
-* Levine 057
-
-![Han Yang](/assets/images/headshots/han_yang.jpg){:class="img-headshots"}
-
-### [Xiaoxiao	"Crytal" Zou](https://www.linkedin.com/in/xiaoxiao-zou-23482a1b9/){:target="_blank"} xizou@seas.upenn.edu
-
-Office Hours:
-
-* Thursday - 10:00am - 11:30am
-* Tuesday - 12:30 - 2:00pm
-* Levine 057
-
-![Crystal Zou](/assets/images/headshots/xiaoxiao_zou.jpg){:class="img-headshots"}
-
-### [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta1/){:target="_blank"} adityag1@seas.upenn.edu
-
-Office Hours:
-
-* Wednesday - 3:30pm - 5:00pm
-* Thursday - 1:30pm - 3:00pm
-* Levine 057
-
-![Aditya Gupta](/assets/images/headshots/aditya_gupta.jpg){:class="img-headshots"}
-
-## Course Advisor
 
 ## Recommended Reading
 
@@ -128,7 +91,7 @@ Office Hours:
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) (Coursera free)
 * [Deep Learning Book](https://www.deeplearningbook.org/) (Free to read in HTML)
 * [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-* [All previous CIS 5650](https://cis565-fall-2023.github.io) (https://cis565-fall-20XY.github.io)
+* [All previous CIS 5650](/previous-semesters/)
 
 ## Grading
 
@@ -151,17 +114,6 @@ If you would like to use code not written by you for this class, please run it b
 
 If you think you need to ask permission, you should ask. We will most likely approve all reasonable requests.
 
-## Penn Engineering COVID-19 Impact and Announcements
-
-Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for information on Penn Engineering's announcements and information about COVID-19 impact and procedures.
-
-### COVID Protocols for CIS 5650
-
-* Classrooms will be operating under normal, pre-COVID capacity during the Fall 2024 term.
-* CIS 5650 will be in person and lecture recordings will be made available within 24 hours after the lecture.
-* We will follow University policy for mask use.
-* If a student (or staff) tests positive at any point during the semester, and there is probable risk of spread, a portion of the students, if not the entire class may be moved online-only temporarily. You will be notified through Class Forum.
-
 ## Acknowledgments
 
 [Joe Kider](http://www.josephkider.com/), [Gary Katz](http://www.linkedin.com/pub/gary-katz/3/a40/a1b), and [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/web/) taught this course before me.
@@ -169,6 +121,8 @@ Please visit the [COVID-19](https://www.seas.upenn.edu/coronavirus/) for informa
 All former TAs have helped shape this course:
 
 |---|---|---|
+| [Han "Andrew" Yang](https://www.linkedin.com/in/andrew-han-yang-0031231a3) | [Xiaoxiao  "Crytal" Zou](https://www.linkedin.com/in/xiaoxiao-zou-23482a1b9/) | [Aditya Gupta](https://www.linkedin.com/in/aditya-gupta1/) |
+| [Daniel Zhong](https://www.linkedin.com/in/danielzhong-/) | | |
 | [Chang Liu](https://www.linkedin.com/in/chang-liu-0451a6208/) | [Shutong Wu](https://www.linkedin.com/in/shutong-wu-214043172/) | [Shixuan Fang](https://www.linkedin.com/in/shixuan-fang-4aba78222/) |
 | [Shubham Sharma](https://www.linkedin.com/in/codeshubham/) | [Rachel Gu](https://www.linkedin.com/in/rgu/) | |
 | [Janine Liu](https://www.janineliu.com/) | [Liam Dugan](http://liamdugan.com/) | [Wayne Wu](https://www.wuwayne.com) |

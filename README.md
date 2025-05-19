@@ -1,4 +1,4 @@
-# CIS 5650 GPU Programming and Architecture Fall 2024
+# CIS 5650 GPU Programming and Architecture Fall 2025
 
 This website uses Hydejack Starter Kit, a quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
