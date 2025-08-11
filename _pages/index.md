@@ -57,6 +57,8 @@ This is a project-intensive course with significant coding, writing, and present
 ## Github, Schedule, Class Forum, and LinkedIn
 
 * [**Github**](https://github.com/CIS5650-Fall-2025){:target="_blank"}: fork your repos from here
+* [**Ed Discussions**](https://edstem.org/us/courses/81464/discussion): Class forum
+  * Note: Ed Discussions requires being registered for the class for default access. If you need access for auditing, please reach out to the instructors.
 * [**LinkedIn Group**](https://www.linkedin.com/groups/6540935/){:target="_blank"}: for networking with current and previous course students
 
 ## Lecturers
