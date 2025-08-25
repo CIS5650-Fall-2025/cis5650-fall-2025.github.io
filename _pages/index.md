@@ -74,6 +74,35 @@ Office Hours:
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
 
+## Teaching Assistants
+
+### [Paulina Tao](){:target="_blank"} tpaulina@seas.upenn.edu
+
+Office Hours:
+
+* Monday - 1:00pm - 3:00pm
+* Levine 057
+
+![Paulina Tao](/assets/images/headshots/paulina_tao.jpg){:class="img-headshots"}
+
+### [Ruipeng Wang](){:target="_blank"} ruipeng@sas.upenn.edu
+
+Office Hours:
+
+* Thursday - 3:00pm - 4:30pm
+* Levine 057
+
+![Ruipeng Wang](/assets/images/headshots/ruipeng_wang.jpg){:class="img-headshots"}
+
+### [Zixiao Wang](){:target="_blank"} zixiaow@seas.upenn.edu
+
+Office Hours:
+
+* Wednesday - 2:00pm - 3:30pm
+* Levine 057
+
+![Zixiao Wang](/assets/images/headshots/zixiao_wang.jpg){:class="img-headshots"}
+
 ## Recommended Reading
 
 * [Moving Graphics Research into Development](http://www.realtimerendering.com/blog/4472-2/), Patrick Cozzi
