@@ -89,7 +89,7 @@ Office Hours:
 
 Office Hours:
 
-* Thursday - 3:00pm - 4:30pm
+* Thursday - 3:30pm - 5:00pm
 * Levine 057
 
 ![Ruipeng Wang](/assets/images/headshots/ruipeng_wang.jpg){:class="img-headshots"}
