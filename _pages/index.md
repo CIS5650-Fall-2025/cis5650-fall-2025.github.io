@@ -63,14 +63,14 @@ This is a project-intensive course with significant coding, writing, and present
 
 ## Lecturers
 
-Changes to office hour schedule will be made on the CIS 5650 Calendar and notified through Class Forum.
+Changes to office hour schedule will be made on this schedule and notified through Class Forum (Ed Discussion).
 
 ### [Shehzan Mohammed](https://www.linkedin.com/in/shehzan-mohammed/){:target="_blank"} mza@seas.upenn.edu
 
 Office Hours:
 
-* 60 minutes prior to class and 30 minutes following the end of class; Held adjacent to Towne 337.
-* By appointment (email me)
+* 4-5pm prior to class on class days and 30 minutes following the end of class; Held adjacent to Towne 337.
+* By appointment (email me) - For interviewing, career, or other mentorship advice;
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
 
