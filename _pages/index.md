@@ -98,7 +98,7 @@ Office Hours:
 
 Office Hours:
 
-* Wednesday - 2:00pm - 3:30pm
+* Wednesday - 1:00pm - 2:30pm
 * Levine 057
 
 ![Zixiao Wang](/assets/images/headshots/zixiao_wang.jpg){:class="img-headshots"}
