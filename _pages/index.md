@@ -56,6 +56,7 @@ This is a project-intensive course with significant coding, writing, and present
 
 ## Github, Schedule, Class Forum, and LinkedIn
 
+* **Classroom**: Berger Auditorium in Skirkanich Hall
 * [**Github**](https://github.com/CIS5650-Fall-2025){:target="_blank"}: fork your repos from here
 * [**Ed Discussions**](https://edstem.org/us/courses/81464/discussion): Class forum
   * Note: Ed Discussions requires being registered for the class for default access. If you need access for auditing, please reach out to the instructors.
@@ -69,7 +70,7 @@ Changes to office hour schedule will be made on this schedule and notified throu
 
 Office Hours:
 
-* 4-5pm prior to class on class days and 30 minutes following the end of class; Held adjacent to Towne 337.
+* 4-5pm prior to class on class days and 30 minutes following the end of class; Held adjacent to Berger Auditorium.
 * By appointment (email me) - For interviewing, career, or other mentorship advice;
 
 ![Shehzan Mohammed](/assets/images/headshots/shehzan_mohammed.jpg){:class="img-headshots"}
