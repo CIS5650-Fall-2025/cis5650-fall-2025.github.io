@@ -104,6 +104,10 @@ Office Hours:
 
 ![Zixiao Wang](/assets/images/headshots/zixiao_wang.jpg){:class="img-headshots"}
 
+### [Daniel Zhong](){:target="_blank"} dzhong@seas.upenn.edu
+
+![Daniel Zhong](/assets/images/headshots/daniel_zhong.jpg){:class="img-headshots"}
+
 ## Recommended Reading
 
 * [Moving Graphics Research into Development](http://www.realtimerendering.com/blog/4472-2/), Patrick Cozzi
