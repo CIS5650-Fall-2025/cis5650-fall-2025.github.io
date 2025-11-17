@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://cis5650-fall-2025.github.io
+url:                   https://matforge.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,7 +24,7 @@ title:                 CIS 5650 <br> GPU Programming and Architecture
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Website for CIS 5650 GPU Programming and Architecture Fall 2025 at the University of Pennsylvania
+  Project Page for MatForge
 
 # A shorter description for the sidebar.
 tagline:               >
