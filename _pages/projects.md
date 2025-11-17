@@ -23,6 +23,4 @@ Example:
 * [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
 -->
 
-![team-8.jpg](){:class="img-final-projects"}
-
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
