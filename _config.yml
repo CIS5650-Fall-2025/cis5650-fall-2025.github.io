@@ -19,18 +19,18 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 CIS 5650 <br> GPU Programming and Architecture
+title:                 MatForge
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Project Page for MatForge
+  Advanced Material Rendering System - Implementing 4 SIGGRAPH papers (2023-2024) in a unified Vulkan path tracer
 
 # A shorter description for the sidebar.
 tagline:               >
+  CIS 5650 Final Project<br>
   Fall 2025<br>
-  University of Pennsylvania<br>
-  [Computer Graphics @ Penn](http://cg.cis.upenn.edu/index.html)
+  University of Pennsylvania
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,18 +42,18 @@ logo:                  /assets/icons/upenn.png
 
 # Add links to the sidebar.
 menu:
-  - title:             Course Syllabus and Schedule
-    url:               /syllabus/
-  - title:             GitHub - Course Projects
-    url:               https://github.com/CIS5650-Fall-2025/
-  - title:             Student Work
-    url:               /projects/
-  - title:             Ed Discussion - Class Forum
-    url:               https://edstem.org/us/courses/81464/discussion
-  - title:             Hardware and Software Setup
-    url:               /setup/
-  - title:             Previous Semesters
-    url:               /previous-semesters/
+  - title:             About
+    url:               /
+  - title:             Features
+    url:               /#features
+  - title:             Gallery
+    url:               /#gallery
+  - title:             Milestones
+    url:               /#milestones
+  - title:             GitHub Repository
+    url:               https://github.com/matforge/MatForge
+  - title:             Documentation
+    url:               https://github.com/matforge/MatForge/tree/master/doc
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..
@@ -234,9 +234,9 @@ remote_theme: qwtel/hydejack@v8.5.0
 
 # Used on index and about sites
 social:
-name:                CIS 5650 GPU Programming
+name:                MatForge Team
 links:
-  - https://github.com
+  - https://github.com/matforge/MatForge
 
 
 # Other Plugins

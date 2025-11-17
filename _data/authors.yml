@@ -1,35 +1,35 @@
-# The primary author of this blog.
-# Must be the same as `author` in `_config.yml`.
-# You can change `author1` to your shortname.
-author1:
-  # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+# MatForge Team Authors
+matforge_team:
+  name:              MatForge Team
+  email:             matforge@seas.upenn.edu
 
-  # Used at the bottom of each page and at the top of the `about` layout
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Advanced Material Rendering System - A CIS 5650 GPU Programming final project implementing 4 SIGGRAPH papers (2023-2024)
+    in a unified Vulkan path tracer. Our team is developing cutting-edge rendering techniques for production-quality materials.
 
-    Open `_data/authors.yml` to edit this text.
-
-  # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+    path:            /assets/icons/upenn.png
 
-  # Social media icons in sidebar.
-  # Comment/uncomment to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             mza@seas.upenn.edu
-    twitter:           shehzanm
-    github:            CIS5650-Fall-2025
-    linkedin:          groups/6540935/
+    github:          matforge/MatForge
+    linkedin:        groups/6540935/
+
+yiding:
+  name:              Yiding Liu
+  about:             |
+    Quad-Optimized Low-Discrepancy Sequences (QOLDS) implementation specialist.
+    Developing foundation sampling layer for improved Monte Carlo convergence.
+
+cecilia:
+  name:              Cecilia Gao
+  about:             |
+    RMIP (Rectangular MinMax Image Pyramid) implementation specialist.
+    Building tessellation-free displacement ray tracing system.
+
+xiaonan:
+  name:              Xiaonan Zhang
+  about:             |
+    Material system specialist implementing Bounded VNDF sampling and Fast-MSX multi-scattering approximation.
     # download:        <url>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
