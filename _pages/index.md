@@ -7,7 +7,7 @@ hide_description: true
 permalink: /
 ---
 
-![MatForge Banner](/assets/images/matforge_banner.png){:class="img-projects"}
+![MatForge Banner](/assets/images/matforge_banner_temp.png){:class="img-projects"}
 
 ## Overview
 
@@ -167,15 +167,8 @@ permalink: /
 
 - [GitHub Repository](https://github.com/matforge/MatForge)
 - [README.md](https://github.com/matforge/MatForge/blob/master/README.md) - Quick start and build instructions
-- [CLAUDE.md](https://github.com/matforge/MatForge/blob/master/CLAUDE.md) - Developer guide
 - [Milestone 1 Report](https://github.com/matforge/MatForge/blob/master/doc/presentations/Milestone1.md)
 
-### Implementation Plans
-
-- [QOLDS Implementation Plan](https://github.com/matforge/MatForge/blob/master/doc/markdowns/QOLDS_impl_plan.md)
-- [RMIP Implementation Plan](https://github.com/matforge/MatForge/blob/master/doc/markdowns/RMIP_impl_plan.md)
-- [Fast-MSX + Bounded VNDF Plan](https://github.com/matforge/MatForge/blob/master/doc/markdowns/MSX_VNDF_impl_plan.md)
-- [Project Plan](https://github.com/matforge/MatForge/blob/master/doc/markdowns/PROJECT_PLAN.md)
 
 ### Papers
 
@@ -220,7 +213,7 @@ cmake --build build --config Release
 ```
 
 **Requirements**:
-- Windows 10/11 or Linux
+- Windows 10/11
 - NVIDIA RTX GPU (RTX 20-series or newer)
 - Vulkan SDK 1.3+
 - CMake 3.25+
@@ -247,4 +240,4 @@ For detailed build instructions, see [README.md](https://github.com/matforge/Mat
 
 ---
 
-*Last Updated: November 16, 2025*
+*Last Updated: November 18, 2025*
