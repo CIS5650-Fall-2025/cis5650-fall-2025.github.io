@@ -24,3 +24,8 @@ Example:
 -->
 
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
+
+
+![team-1.png](/assets/images/projects/team-1.png){:class="img-final-projects"}
+
+* [**RealiFluid: Interactive Realtime LBM Fluid Simulation in Unreal Engine**](https://github.com/LBM-Unreal/UnrealPlugin-LBM) -- [Henry Han](https://github.com/SirEnri2001), [Yu Jiang](https://github.com/NMDWSM0), [Zhanbo Lin](https://github.com/skszb)
