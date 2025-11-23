@@ -32,3 +32,6 @@ Example:
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
+
+![team-6.png](../assets/images/projects/team-6.png){:class="img-final-projects"}
+* [**MatForge**](https://github.com/MatForge/MatForge) -- [Cecilia Chen](https://www.linkedin.com/in/yue-chen-643182223/), [Xiaonan Pan](https://www.linkedin.com/in/xiaonan-pan-9b0b0b1a7/), [Yiding Tian](https://tonyxtian.com)
