@@ -23,5 +23,9 @@ Example:
 * [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
 -->
 
+![team-2.gif](../assets/images/projects/team-2.gif){:class="img-final-projects"}
+* [**Cumulus - RealTime Cloudscapes in DirectX12**](https://github.com/rubenaryo/Cumulus) -- [Ruben Young](https://www.rubenaryo.com/), [Jacky Park](https://jackypark.com/), [Eli Asimow](https://easimow.com/), [Avi Serebrenik](https://aviserebrenik.wixsite.com/cvsite)
+
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
+
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
