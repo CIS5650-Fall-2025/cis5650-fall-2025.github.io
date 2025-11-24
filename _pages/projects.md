@@ -32,3 +32,6 @@ Example:
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
+
+![team-15.png](/assets/images/projects/team-15.png){:class="img-final-projects"}
+* [**WebGPU-based MPM Snow Simulation**](https://github.com/luoluobuli/WebGPU-MPM-based-Snow-Simulation) -- [Daniel Chen](https://github.com/wooningeire), [Joanne Li](https://github.com/luoluobuli), [Yuning Wen](https://github.com/YuningUPenn)
