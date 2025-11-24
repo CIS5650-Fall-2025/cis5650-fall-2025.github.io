@@ -32,3 +32,6 @@ Example:
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
+
+![team-13.gif](https://raw.githubusercontent.com/Calvin-Lieu/CIS5650-Final-Project/main/images/demo.gif)
+* [**Skyfall-WebGPU - Google Earth style Gaussian splatting on WebGPU**](https://github.com/Calvin-Lieu/CIS5650-Final-Project) -- [Yannick Gachnang](https://github.com/krispy-kenay), [Lu Men](lu-m-dev.github.io), [Calvin Lieu](https://github.com/Calvin-Lieu), [Harry Guan](https://github.com/Hazingoo)
