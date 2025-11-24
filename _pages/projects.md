@@ -29,6 +29,9 @@ Example:
 ![team-2.gif](../assets/images/projects/team-2.gif){:class="img-final-projects"}
 * [**Cumulus - RealTime Cloudscapes in DirectX12**](https://github.com/rubenaryo/Cumulus) -- [Ruben Young](https://www.rubenaryo.com/), [Jacky Park](https://jackypark.com/), [Eli Asimow](https://easimow.com/), [Avi Serebrenik](https://aviserebrenik.wixsite.com/cvsite)
 
+![team-6.png](../assets/images/projects/team-6.png){:class="img-final-projects"}
+* [**RACECAR: real-time Vulkan renderer suited for cars and racing games**](https://github.com/upgrade-central-tech/racecar) -- [Charles Wang](https://charleszw.com), [Anthony Ge](https://www.geant.pro), [Saahil Gupta](https://www.saahil-gupta.com), [Aaron Jiang](https://aaron-jiang.com)
+
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
