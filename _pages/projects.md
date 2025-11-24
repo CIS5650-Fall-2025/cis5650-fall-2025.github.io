@@ -32,3 +32,5 @@ Example:
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
+
+* [**GPU-Accelerated GJK/EPA Collision Detection**](https://github.com/vismaychuriwala/OpenGJK-GPU/tree/main) -- [Marcus Hedlund](https://www.linkedin.com/in/marcushedlund/), [Vismay Churiwala](http://vismaychuriwala.com), [Cindy Wei](https://www.linkedin.com/in/cindy-wei-7ba778227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
