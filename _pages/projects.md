@@ -33,5 +33,5 @@ Example:
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
 
-* [**Interval Cloud**](https://github.com/AngelaSiruiZhu/IntervalCloud/) -- [Xiaoyue Jin ](xiaoyuejin.com), [Sirui Zhu](https://www.angelazhu-gamecraft.com/), [Lijun Qu](lijunqu.com)
+* [**Interval Cloud**](https://github.com/AngelaSiruiZhu/IntervalCloud/) -- [Xiaoyue Jin ](https://xiaoyuejin.com), [Sirui Zhu](https://www.angelazhu-gamecraft.com/), [Lijun Qu](https://lijunqu.com)
 
