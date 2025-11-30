@@ -43,6 +43,9 @@ Example:
 
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
+![team-9.gif](../assets/images/projects/team-9.gif)
+* [**GPU Dynamic RRT - RealTime Cloudscapes in DirectX12**](https://github.com/ZweTun/GPUDynamicRRT) -- [Zwe Tun](https://github.com/ZweTun), [Yunhao Qian](https://github.com/yunhao-qian), [Jefferson Koumba Moussadji Lu](https://github.com/JeffersonKoumbaMoussadjiLu)
+
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
 
 * [**Interval Cloud**](https://github.com/AngelaSiruiZhu/IntervalCloud/) -- [Xiaoyue Jin ](https://xiaoyuejin.com), [Sirui Zhu](https://www.angelazhu-gamecraft.com/), [Lijun Qu](https://lijunqu.com)
