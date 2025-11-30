@@ -52,3 +52,6 @@ Example:
 * [**Interval Cloud**](https://github.com/AngelaSiruiZhu/IntervalCloud/) -- [Xiaoyue Jin ](https://xiaoyuejin.com), [Sirui Zhu](https://www.angelazhu-gamecraft.com/), [Lijun Qu](https://lijunqu.com)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
+
+![team-13.gif](https://raw.githubusercontent.com/Calvin-Lieu/CIS5650-Final-Project/main/images/demo.gif)
+* [**Skyfall-WebGPU - Google Earth style Gaussian splatting on WebGPU**](https://github.com/Calvin-Lieu/CIS5650-Final-Project) -- [Yannick Gachnang](https://github.com/krispy-kenay), [Lu Men](lu-m-dev.github.io), [Calvin Lieu](https://github.com/Calvin-Lieu), [Harry Guan](https://github.com/Hazingoo)
