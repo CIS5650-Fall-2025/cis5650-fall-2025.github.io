@@ -32,6 +32,9 @@ Example:
 ![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}
 * [**WebGPU based Video Generation**](https://github.com/WebGPU-Video-Diffusion/WebGPU-Video-Diffusion) -- [Lobi Zhao](https://github.com/lobizhao), [Jiangman Zhao](https://github.com/JiangmanZhao), [Yuntian Ke](https://github.com/kytttt), [Ruichi Zhang](https://github.com/Pabloo0610)
 
+![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
+* [**glRemix: DX12 Remastering Platform for OpenGL 1.0 Apps**](https://github.com/glRemix/glRemix) -- [Anya Agarwal](https://anya0402.github.io/), [Aaron Tian](https://aarontian-stack.github.io/), [Amy Liu](amyliu.dev), [Bryce Joseph](https://github.com/brycej217)
+
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
