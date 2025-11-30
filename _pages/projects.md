@@ -41,7 +41,7 @@ Example:
 ![team-6.png](../assets/images/projects/team-6.png){:class="img-final-projects"}
 * [**RACECAR: real-time Vulkan renderer suited for cars and racing games**](https://github.com/upgrade-central-tech/racecar) -- [Charles Wang](https://charleszw.com), [Anthony Ge](https://www.geant.pro), [Saahil Gupta](https://www.saahil-gupta.com), [Aaron Jiang](https://aaron-jiang.com)
 
-![team-7.png](/assets/images/projects/KTX2_IMG.png)
+![team-7.png](/assets/images/projects/KTX2_IMG.png){:class="img-final-projects"}
 * [**KTX2 Viewer**](https://github.com/0cfernandes00/565_FinalProject) -- [Caroline Fernandes](https://github.com/0cfernandes00), [Harris Kokkinakos](https://github.com/HarrisKoko), [Rachel Lin](https://github.com/RachelDLin), [Christina Qiu](https://github.com/christinaqiu3)
 
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
@@ -53,7 +53,6 @@ Example:
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
 
-![team-13.gif](https://raw.githubusercontent.com/Calvin-Lieu/CIS5650-Final-Project/main/images/demo.gif)
 * [**Skyfall-WebGPU - Google Earth style Gaussian splatting on WebGPU**](https://github.com/Calvin-Lieu/CIS5650-Final-Project) -- [Yannick Gachnang](https://github.com/krispy-kenay), [Lu Men](lu-m-dev.github.io), [Calvin Lieu](https://github.com/Calvin-Lieu), [Harry Guan](https://github.com/Hazingoo)
 
 * [**TerrainGen**](https://github.com/thumun/TerrainGen/) -- [Neha Thumu](https://thumun.github.io/), [Raymond Feng](https://rfeng.dev/) [Thomas Shaw](https://tlshaw.me/)
