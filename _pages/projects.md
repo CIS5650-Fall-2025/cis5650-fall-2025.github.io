@@ -57,3 +57,6 @@ Example:
 * [**Skyfall-WebGPU - Google Earth style Gaussian splatting on WebGPU**](https://github.com/Calvin-Lieu/CIS5650-Final-Project) -- [Yannick Gachnang](https://github.com/krispy-kenay), [Lu Men](lu-m-dev.github.io), [Calvin Lieu](https://github.com/Calvin-Lieu), [Harry Guan](https://github.com/Hazingoo)
 
 * [**TerrainGen**](https://github.com/thumun/TerrainGen/) -- [Neha Thumu](https://thumun.github.io/), [Raymond Feng](https://rfeng.dev/) [Thomas Shaw](https://tlshaw.me/)
+
+![team-15.png](/assets/images/projects/team-15.png){:class="img-final-projects"}
+* [**WebGPU-based MPM Snow Simulation**](https://github.com/luoluobuli/WebGPU-MPM-based-Snow-Simulation) -- [Daniel Chen](https://github.com/wooningeire), [Joanne Li](https://github.com/luoluobuli), [Yuning Wen](https://github.com/YuningUPenn)
