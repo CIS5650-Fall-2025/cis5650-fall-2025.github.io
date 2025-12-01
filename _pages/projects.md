@@ -54,6 +54,9 @@ Example:
 
 * [**SimuNet**](https://github.com/sagescherrytree/SimuNet/) -- [Griffin Evans](http://evanses.com/griffin), [Jackie Guan](https://jackieguan.com/), [Jackie Li](https://sites.google.com/seas.upenn.edu/jacquelineli/home)
 
+![team-12.png](/assets/images/projects/team-12.png){:class="img-final-projects"}
+* [WebGPU-WoSt](https://github.com/JohnnySIST/CIS5650-Final-Project) -- [Oliver Hendrych](https://github.com/hendrych-upenn), [Lewis Ghrist](https://siwel-cg.github.io/siwel.cg_websiteV1/index.html#home), [Hongyi Ding](https://johnnyding.com/portfolio)
+
 * [**Skyfall-WebGPU - Google Earth style Gaussian splatting on WebGPU**](https://github.com/Calvin-Lieu/CIS5650-Final-Project) -- [Yannick Gachnang](https://github.com/krispy-kenay), [Lu Men](lu-m-dev.github.io), [Calvin Lieu](https://github.com/Calvin-Lieu), [Harry Guan](https://github.com/Hazingoo)
 
 * [**TerrainGen**](https://github.com/thumun/TerrainGen/) -- [Neha Thumu](https://thumun.github.io/), [Raymond Feng](https://rfeng.dev/) [Thomas Shaw](https://tlshaw.me/)
