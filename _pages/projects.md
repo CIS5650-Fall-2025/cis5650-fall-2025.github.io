@@ -29,8 +29,8 @@ Example:
 ![team-2.gif](../assets/images/projects/team-2.gif){:class="img-final-projects"}
 * [**Cumulus - RealTime Cloudscapes in DirectX12**](https://github.com/rubenaryo/Cumulus) -- [Ruben Young](https://www.rubenaryo.com/), [Jacky Park](https://jackypark.com/), [Eli Asimow](https://easimow.com/), [Avi Serebrenik](https://aviserebrenik.wixsite.com/cvsite)
 
-![team-3.png](/assets/images/projects/team-3.png){:class="img-final-projects"}
-* [**WebGPU based Video Generation**](https://github.com/WebGPU-Video-Diffusion/WebGPU-Video-Diffusion) -- [Lobi Zhao](https://github.com/lobizhao), [Jiangman Zhao](https://github.com/JiangmanZhao), [Yuntian Ke](https://github.com/kytttt), [Ruichi Zhang](https://github.com/Pabloo0610)
+![team-3.gif](/assets/images/projects/team-3.gif){:class="img-final-projects"}
+* [**WebGPU-Based Video Generation**](https://github.com/WebGPU-Video-Diffusion/WebGPU-Video-Diffusion) -- [Lobi Zhao](https://github.com/lobizhao), [Jiangman Zhao](https://github.com/JiangmanZhao), [Yuntian Ke](https://github.com/kytttt), [Ruichi Zhang](https://github.com/Pabloo0610)
 
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
