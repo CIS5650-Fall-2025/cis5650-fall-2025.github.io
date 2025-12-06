@@ -30,7 +30,7 @@ Example:
 * [**Cumulus - RealTime Cloudscapes in DirectX12**](https://github.com/rubenaryo/Cumulus) -- [Ruben Young](https://www.rubenaryo.com/), [Jacky Park](https://jackypark.com/), [Eli Asimow](https://easimow.com/), [Avi Serebrenik](https://aviserebrenik.wixsite.com/cvsite)
 
 ![team-3.gif](/assets/images/projects/team-3.gif){:class="img-final-projects"}
-* [**WebGPU-Based Video Generation**](https://github.com/WebGPU-Video-Diffusion/WebGPU-Video-Diffusion) -- [Lobi Zhao](https://github.com/lobizhao), [Jiangman Zhao](https://github.com/JiangmanZhao), [Yuntian Ke](https://github.com/kytttt), [Ruichi Zhang](https://github.com/Pabloo0610)
+* [**WebGPU-Based Video Generation**](https://github.com/WebGPU-Video-Diffusion/WebGPU-Video-Diffusion) -- [Lobi Zhao](https://github.com/lobizhao), [Muqiao Lei](https://github.com/rmurdock41), [Yuntian Ke](https://github.com/kytttt), [Ruichi Zhang](https://github.com/Pabloo0610)
 
 ![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
 * [**glRemix: DX12 Remastering Platform for OpenGL 1.0 Apps**](https://github.com/glRemix/glRemix) -- [Anya Agarwal](https://anya0402.github.io/), [Aaron Tian](https://aarontian-stack.github.io/), [Amy Liu](amyliu.dev), [Bryce Joseph](https://github.com/brycej217)
