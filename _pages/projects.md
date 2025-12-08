@@ -60,6 +60,7 @@ Example:
 
 * [**Skyfall-WebGPU - Google Earth style Gaussian splatting on WebGPU**](https://github.com/Calvin-Lieu/CIS5650-Final-Project) -- [Yannick Gachnang](https://github.com/krispy-kenay), [Lu Men](lu-m-dev.github.io), [Calvin Lieu](https://github.com/Calvin-Lieu), [Harry Guan](https://github.com/Hazingoo)
 
+![team-14.png](/assets/iamges/projects/team-14.png){:class="img-final-projects"}
 * [**TerrainGen**](https://github.com/thumun/TerrainGen/) -- [Neha Thumu](https://thumun.github.io/), [Raymond Feng](https://rfeng.dev/) [Thomas Shaw](https://tlshaw.me/)
 
 ![team-15.png](/assets/images/projects/team-15.png){:class="img-final-projects"}
