@@ -44,7 +44,7 @@ Example:
 ![team-7.png](/assets/images/projects/KTX2_IMG.png){:class="img-final-projects"}
 * [**KTX2 Viewer**](https://github.com/0cfernandes00/565_FinalProject) -- [Caroline Fernandes](https://github.com/0cfernandes00), [Harris Kokkinakos](https://github.com/HarrisKoko), [Rachel Lin](https://github.com/RachelDLin), [Christina Qiu](https://github.com/christinaqiu3)
 
-![team-8.png](../assets/images/projects/team-8.png){:class="img-final-projects"}
+![team-8.gif](../assets/images/projects/team-8.gif){:class="img-final-projects"}
 * [**WebGPU Flowing Shallow Waves**](https://github.com/TianhongZhou/CIS-565-Final-Proj) -- [Qirui Fu](https://github.com/QiruiFU), [Pavel Peev](https://github.com/thesquashedman), [Tianhong Zhou](https://github.com/TianhongZhou)
 
 ![team-9.gif](../assets/images/projects/team-9.gif)
