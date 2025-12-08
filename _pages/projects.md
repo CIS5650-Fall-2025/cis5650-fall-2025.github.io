@@ -50,6 +50,7 @@ Example:
 ![team-9.gif](../assets/images/projects/team-9.gif)
 * [**GPU Dynamic RRT - RealTime Cloudscapes in DirectX12**](https://github.com/ZweTun/GPUDynamicRRT) -- [Zwe Tun](https://github.com/ZweTun), [Yunhao Qian](https://github.com/yunhao-qian), [Jefferson Koumba Moussadji Lu](https://github.com/JeffersonKoumbaMoussadjiLu)
 
+![team-10.gif](../assets/images/projects/team-10.gif)
 * [**Interval Cloud**](https://github.com/AngelaSiruiZhu/IntervalCloud/) -- [Xiaoyue Jin ](https://xiaoyuejin.com), [Sirui Zhu](https://www.angelazhu-gamecraft.com/), [Lijun Qu](https://lijunqu.com)
 
 ![team-11.png](/assets/images/projects/team-11.png){:class="img-final-projects"}
