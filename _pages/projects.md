@@ -33,7 +33,7 @@ Example:
 * [**WebGPU-Based Video Generation**](https://github.com/WebGPU-Video-Diffusion/WebGPU-Video-Diffusion) -- [Lobi Zhao](https://github.com/lobizhao), [Muqiao Lei](https://github.com/rmurdock41), [Yuntian Ke](https://github.com/kytttt), [Ruichi Zhang](https://github.com/Pabloo0610)
 
 ![team-4.png](/assets/images/projects/team-4.png){:class="img-final-projects"}
-* [**glRemix: DX12 Remastering Platform for OpenGL 1.0 Apps**](https://github.com/glRemix/glRemix) -- [Anya Agarwal](https://anya0402.github.io/), [Aaron Tian](https://aarontian-stack.github.io/), [Amy Liu](amyliu.dev), [Bryce Joseph](https://github.com/brycej217)
+* [**glRemix: DX12 Remastering Platform for OpenGL 1.0 Apps**](https://github.com/glRemix/glRemix) -- [Anya Agarwal](https://anya0402.github.io/), [Aaron Tian](https://aarontian-stack.github.io/), [Amy Liu](https://amyliu.dev/), [Bryce Joseph](https://github.com/brycej217)
 
 ![team-5.png](../assets/images/projects/team-5.png){:class="img-final-projects"}
 * [**MatForge**](https://github.com/MatForge/MatForge) -- [Cecilia Chen](https://www.linkedin.com/in/yue-chen-643182223/), [Xiaonan Pan](https://www.linkedin.com/in/xiaonan-pan-9b0b0b1a7/), [Yiding Tian](https://tonyxtian.com)
