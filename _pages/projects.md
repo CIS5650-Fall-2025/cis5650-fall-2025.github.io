@@ -65,4 +65,5 @@ Example:
 ![team-15.png](/assets/images/projects/team-15.png){:class="img-final-projects"}
 * [**WebGPU-based MPM Snow Simulation**](https://github.com/luoluobuli/WebGPU-MPM-based-Snow-Simulation) -- [Daniel Chen](https://github.com/wooningeire), [Joanne Li](https://github.com/luoluobuli), [Yuning Wen](https://github.com/YuningUPenn)
 
+![team-16.gif](/assets/images/projects/team-16.gif){:class="img-final-projects"}
 * [**GPU-Accelerated GJK/EPA Collision Detection**](https://github.com/vismaychuriwala/OpenGJK-GPU/tree/main) -- [Marcus Hedlund](https://www.linkedin.com/in/marcushedlund/), [Vismay Churiwala](http://vismaychuriwala.com), [Cindy Wei](https://www.linkedin.com/in/cindy-wei-7ba778227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
