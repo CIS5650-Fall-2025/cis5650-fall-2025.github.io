@@ -23,7 +23,7 @@ Example:
 * [**SurfelPlus: Real-time Global Illumination Based on Surfels**](https://github.com/WANG-Ruipeng/SurfelPlus) -- [Zhen Ren](https://github.com/ZhiQing-R), [Ruipeng Wang](https://github.com/WANG-Ruipeng), [Jinxiang Wang](https://github.com/JinxiangW)
 -->
 
-![team-1.png](/assets/images/projects/team-1.png){:class="img-final-projects"}
+![team-1.png](/assets/images/projects/team-1.gif){:class="img-final-projects"}
 * [**RealiFluid: Interactive Realtime LBM Fluid Simulation in Unreal Engine**](https://github.com/LBM-Unreal/UnrealPlugin-LBM) -- [Henry Han](https://github.com/SirEnri2001), [Yu Jiang](https://github.com/NMDWSM0), [Zhanbo Lin](https://github.com/skszb)
 
 ![team-2.gif](../assets/images/projects/team-2.gif){:class="img-final-projects"}
